@@ -1,0 +1,54 @@
+# Dossiers générés par Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Dossiers générés par les IDE
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# Fichiers générés par Unity / Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# Fichiers de build
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Divers OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Résultats de tests / profiling
+[Tt]est[Rr]esults/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
